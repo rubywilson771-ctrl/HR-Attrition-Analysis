@@ -51,13 +51,13 @@ This dashboard explores attrition patterns by job title, education level, and te
 
 Attrition by Job Title:
 
-    Laboratory Technician : 130
+     Laboratory Technician : 130
 
-    Sales Executive  : 113
+     Sales Executive  : 113
 
      Research Scientist : 99
 
-Sales Representative: 68
+     Sales Representative: 68
 
 Managerial & Director roles have the lowest attrition.
 
@@ -75,13 +75,13 @@ Attrition by Education:
 
 Attrition by Tenure:
 
- 0–10 Years : 378
+     0–10 Years : 378
 
- 11–20 Years : 81
+     11–20 Years : 81
 
- 21–30 Years : 22
+     21–30 Years : 22
 
- 31+ Years  : 11
+     31+ Years  : 11
 
 
  Dashboard 1 :  ![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/HR-Attrition-Analysis/blob/main/Screenshot%202025-08-08%20145421.png)
