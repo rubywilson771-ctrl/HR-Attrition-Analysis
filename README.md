@@ -14,7 +14,9 @@ Attrition Rate: 17%
 Distance to Work & Attrition:
 
 Near: 60.16%
+
 Far: 20.73%
+
 Very Far: 19.11%
 
 Attrition by Tenure: Majority (378) leave within 0–10 years.
@@ -24,11 +26,14 @@ Attrition by Job Satisfaction: Dissatisfied employees have the highest attrition
 Department-wise Attrition:
 
 Sales: 282
+
 R&D: 186
+
 HR: 24
 
 Gender-wise Attrition:
 
 Male: 63% (312 employees)
+
 Female: 37% (180 employees)
 
