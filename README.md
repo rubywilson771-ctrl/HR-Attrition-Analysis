@@ -8,7 +8,9 @@ This dashboard highlights how attrition varies by gender, department, distance t
 **Key Insights:**
 
 Total Employees: 2,925
+
 Attrition Rate: 17%
+
 Distance to Work & Attrition:
 
 Near: 60.16%
@@ -16,6 +18,7 @@ Far: 20.73%
 Very Far: 19.11%
 
 Attrition by Tenure: Majority (378) leave within 0–10 years.
+
 Attrition by Job Satisfaction: Dissatisfied employees have the highest attrition (151).
 
 Department-wise Attrition:
