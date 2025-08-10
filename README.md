@@ -1,5 +1,7 @@
 # 📊 HR Attrition Analytics
+
 This project analyzes employee attrition trends to help HR teams make data-driven decisions for reducing turnover. It consists of two Power BI dashboards, each focusing on different aspects of attrition, from demographics and satisfaction to job roles and education levels.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #🔹** Dashboard 1 – Employee Demographics & Satisfaction**
 
@@ -36,4 +38,7 @@ Gender-wise Attrition:
 Male: 63% (312 employees)
 
 Female: 37% (180 employees)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
