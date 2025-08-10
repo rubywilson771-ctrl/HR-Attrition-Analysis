@@ -84,5 +84,5 @@ Attrition by Tenure:
 31+ Years: 11
 
 
- Dashboard 1 :  ![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/HR-Attrition-Analysis/blob/main/Screenshot%202025-08-08%20145405.png)
+ Dashboard 1 :  ![Dashboard Screenshot](https://github.com/rubywilson771-ctrl/HR-Attrition-Analysis/blob/main/Screenshot%202025-08-08%20145421.png)
 
