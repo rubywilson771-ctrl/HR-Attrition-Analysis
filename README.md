@@ -63,15 +63,15 @@ Managerial & Director roles have the lowest attrition.
 
 Attrition by Education:
 
-   Bachelor’s Degree : 204
+    Bachelor’s Degree : 204
 
-   Master’s Degree : 120
+    Master’s Degree : 120
 
-   Associate’s Degree : 93
+    Associate’s Degree : 93
 
-   High School : 65
+    High School : 65
 
-   Doctoral Degree : 10
+    Doctoral Degree : 10
 
 Attrition by Tenure:
 
